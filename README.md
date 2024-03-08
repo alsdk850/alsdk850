@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mina Koo</h1>
 <h3 align="center">Welcome to my Github!</h3>
 
-- 🔭 I’m currently working on [Spearmint](https://www.spearmintjs.com/)
+- 🔭 I’m currently working on Voyager at Marsh McLennan
 
 - 📫 You can reach me via **minalunakoo@gmail.com**
 
